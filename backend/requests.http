@@ -74,6 +74,5 @@ content-type: application/json
   "name":"Coke",
   "type":"Drink",
   "stock":"100",
-  "price":"12.50",
-  "imageUrl":"../src/components/icons/img_pizza.svg"
+  "price":"12.50"
 }
