@@ -6,6 +6,13 @@ const crypto = require("crypto")
 const session = require("express-session");
 
 const indexRouter = require("./routes/index")
+const customersRouter = require("./routes/customers")
+const itemsRouter = require("./routes/items")
+const menusRouter = require("./routes/menus")
+const paymentsRouter = require("./routes/payments")
+const reservationsRouter = require("./routes/reservations")
+const tablesRouter = require("./routes/tables")
+const waitersRouter = require("./routes/waiters")
 
 require("./mongo-connection")
 const { initializeSocket } = require("./socket-connection");
@@ -44,6 +51,13 @@ app.use(session({
 
 // Rotalar
 app.use("/", indexRouter)
+app.use("/customers", customersRouter)
+app.use("/items", itemsRouter)
+app.use("/menus", menusRouter)
+app.use("/payments", paymentsRouter)
+app.use("/reservations", reservationsRouter)
+app.use("/tables", tablesRouter)
+app.use("/waiters", waitersRouter)
 
 // Hata yakalama
 app.use((err, req, res, next) => {

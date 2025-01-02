@@ -1,0 +1,79 @@
+###
+POST http://localhost:3000/waiters HTTP/1.1
+Content-Type: application/json
+
+{
+  "name": "Mehmet Yüksel",
+  "age": 48,
+  "experience": 3,
+  "available": true,
+  "section": "Dining",
+  "workingHours": {
+    "start": "08:00",
+    "end": "16:00"
+  },
+  "skills": ["Communication", "Problem-solving"],
+  "education": {
+    "degree": "Bachelor of Arts",
+    "school": "University of Example"
+  },
+  "certifications": ["Food Safety Certificate"],
+  "dailyReports": [
+    {
+      "date": "2024-06-30T00:00:00.000Z",
+      "content": "Handled a busy shift smoothly and received positive feedback from customers."
+    }
+  ],
+  "performance": {
+    "satisfactionScore": 85,
+    "orderSpeed": "Fast"
+  },
+  "employmentStatus": "Active",
+  "startDate": "2023-01-15T00:00:00.000Z",
+  "tips": {
+    "totalTips": 1000,
+    "distributionMethod": "Individual"
+  }
+}
+
+###
+POST http://localhost:3000/tables HTTP/1.1
+Content-Type: application/json
+
+{
+    "number": 1,
+    "capacity": 6,
+    "status": "Available",
+    "isVIP": false,
+    "specialRequests": ["Birthday decorations", "Extra chairs"],
+    "location": "Indoor",
+    "isSmokingAllowed": false,
+    "reservedUntil": "2024-07-16T18:00:00Z",
+    "lastCleaningDate": "2024-07-03T10:00:00Z",
+    "notes": "Smoke available",
+    "rating": 5
+}
+
+###
+
+POST http://localhost:3000/customers
+Content-Type: application/json
+
+{
+  "name": "Ali Koyunoglu",
+  "email": "alikoyunoglu@gmail.com",
+  "phone": "05551234561",
+  "vip": true
+}
+
+###
+POST http://localhost:3000/items HTTP/1.1
+content-type: application/json
+
+{
+  "name":"Coke",
+  "type":"Drink",
+  "stock":"100",
+  "price":"12.50",
+  "imageUrl":"../src/components/icons/img_pizza.svg"
+}

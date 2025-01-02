@@ -57,7 +57,7 @@ class ReservationService extends BaseService {
             if (!customer) throw new Error("Customer not found");
             if (!table) throw new Error("Table not found");
 
-            // Çakışan rezervasyonların kontrolü
+            // Çakışan rezervasyonları kontrol ediyorum.
             const overlappingReservations = await this.query({
                 table: tableId,
                 $or: [
@@ -91,7 +91,8 @@ class ReservationService extends BaseService {
         }
     }
 
-    // Rezervasyonu iptal et
+    // Rezervasyonu iptal et. Denemedim. Kodlar doğru görünüyor ama çalışıp çalışmadığını bilmiyorum.
+    // Cancel ve Available için aynı masaların state değişikliğinde tasarladığım CSS i burada kullanmak isteyebilirim.
     async cancelReservation(reservationId) {
         try {
             // Rezervasyonu bul
