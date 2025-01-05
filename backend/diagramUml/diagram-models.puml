@@ -1,0 +1,194 @@
+@startuml
+
+class Customer <<Models>> {
+    + name: String
+    + email: String
+    + phone: String
+    + isVIP: Boolean
+    + specialRequests: String
+    + orderBookings(filter: Filter): List<OrderBooking>
+}
+
+class orderBookings <<Models>> {
+    + orderStart: Date
+    + orderEnd: Date
+    + Customer()
+    + Item()
+}
+
+class Table <<Models>> {
+    + number: Number
+    + capacity: Number
+    + status: Status
+    + isVIP: Boolean
+    + specialRequests: []
+    + location: Location
+    + isSmokingAllowed: Boolean
+    + reservedUntil: Date
+    + lastCleaningDate: Date
+    + notes: String
+    + rating: Number
+    + waiter(filter:Filter) : List<Waiter>
+    + orderBookings(filter: Filter): List<OrderBooking>
+}
+
+enum Status {
+    Available
+    Occupied
+    Reserved
+    Cleaning
+}
+
+enum Location {
+    Bar
+    Dining
+    Outdoor
+    Kitchen
+}
+
+class Waiter <<Models>> {
+    + name: String
+    + age:Number
+    + experience: Number
+    + available: Boolean
+    + section: Section
+    + workingHours: WorkingHours
+    + skills: String
+    + education: Education
+    + certification: String
+    + dailyReports: [DailyReports]
+    + performance: Performance
+    + employmentStatus: EmploymentStatus
+    + startDate: Date
+    + tips: Tips
+}
+
+enum Section {
+    Bar
+    Dining
+    Outdoor
+    Kitchen
+}
+
+abstract class WorkingHours {
+    + start: String
+    + end: String
+}
+
+abstract class Education {
+    + degree: String
+    + school: String
+}
+
+abstract class DailyReports {
+    + date: Date
+    + content: String
+}
+
+abstract class Performance {
+    + saticfactionScore: Number
+    + orderSpeed: OrderSpeed
+}
+
+enum OrderSpeed {
+    Slow
+    Avarage
+    Fast
+}
+
+enum EmploymentStatus {
+    Active
+    On Leave
+    Vacation
+    Sick
+}
+
+abstract class Tips {
+    + totaltips: Number
+    + distributionMethod: DistributionMethod
+}
+
+enum DistributionMethod {
+    Individual
+    Pooled
+}
+
+class Item <<Models>> {
+    + name: String
+    + type: Type
+    + stock: Number
+    + ingredients: String
+    + nutrition: Nutrition
+    + available: Boolean
+    + availableHours: AvailableHours
+    + reviews(filter: Filter): List<Review>
+    + discount: Discount
+    + price: Number
+    + imageUrl: String
+    + deliveryTime: Number
+    + description: String
+    + price: Number
+    + imageUrl: String
+    + deliveryTime: Number
+    + description: String
+}
+
+enum Type {
+    Dinner
+    Drink
+    Dessert
+}
+
+enum Nutrition {
+    calories: Number
+    fat: Number
+    protein: Number
+    carbs: Number
+}
+
+abstract class AvailableHours {
+    + start: String
+    + end: String
+}
+
+abstract class Discount {
+    + percentage: Number
+    + validUntil: Date
+}
+
+class Review <<Models>> {
+    + Customer(filter: Filter): List<Customer>
+    + Item(filter: Filter): List<Item>
+    + rating: Number
+    + comment: String
+    + date: Date
+}
+
+
+Customer "1..n" --|> "0..n" orderBookings
+Customer --> "1..n" Table
+Customer "1..n" --|> "0..n" Review
+' Table -down-|> Waiter
+' Table -down-> "1..n" orderBookings
+Table --> "1" Status
+Table --> "1" Location
+Table "1..n" --|> "1..n" orderBookings
+Table --|> "1..n" Waiter
+Waiter --> "1" Section
+Waiter *--> WorkingHours
+Waiter *--> Education
+Waiter *--> DailyReports
+Waiter *--> Performance
+Waiter --> "1" EmploymentStatus
+Waiter *-->  Tips
+Tips --> "1" DistributionMethod
+Performance --> "1" OrderSpeed
+Item --> "1" Type
+Item --> "1" Nutrition
+Item *--> AvailableHours
+Item *--> Discount
+orderBookings "1..n" --> "1..n" Item
+
+' created by Yuksel
+
+@enduml

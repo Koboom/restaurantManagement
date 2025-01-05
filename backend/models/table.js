@@ -11,7 +11,7 @@ const TableSchema = new mongoose.Schema({
     reservedUntil: { type: Date }, // Masa rezerve edilme süresi
     lastCleaningDate: { type: Date }, // Son temizlenme tarihi
     waiter: { type: mongoose.Schema.Types.ObjectId, ref: 'Waiter' }, // Masa ile ilişkili garson
-    orders: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Order' }], // Masa ile ilişkili siparişler
+    orderBookings: [{ type: mongoose.Schema.Types.ObjectId, ref: 'OrderBooking' }], // Masa ile ilişkili siparişler
     notes: { type: String }, // Notlar (opsiyonel)
     rating: { type: Number, min: 1, max: 5 }
 }, { timestamps: true });
