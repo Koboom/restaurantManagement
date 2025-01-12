@@ -168,8 +168,6 @@ class Review <<Models>> {
 Customer "1..n" --|> "0..n" orderBookings
 Customer --> "1..n" Table
 Customer "1..n" --|> "0..n" Review
-' Table -down-|> Waiter
-' Table -down-> "1..n" orderBookings
 Table --> "1" Status
 Table --> "1" Location
 Table "1..n" --|> "1..n" orderBookings

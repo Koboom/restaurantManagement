@@ -752,3 +752,226 @@
 {"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-05T14:56:23.797Z"}
 {"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-05T14:56:23.798Z"}
 {"level":"info","message":"Server started on port 3000","timestamp":"2025-01-05T14:56:23.801Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T08:59:37.406Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T08:59:37.411Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T08:59:37.412Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T08:59:37.412Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T08:59:37.416Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T13:10:32.114Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T13:10:32.119Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T13:10:32.120Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:10:32.120Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T13:10:32.124Z"}
+{"level":"error","message":"Fehler aufgetreten: Error inserting object: E11000 duplicate key error collection: restaurantDashboard.customers index: email_1 dup key: { email: \"alikoyunoglu@gmail.com\" }","timestamp":"2025-01-12T13:19:03.236Z"}
+{"level":"error","message":"Fehler aufgetreten: Error inserting object: E11000 duplicate key error collection: restaurantDashboard.customers index: email_1 dup key: { email: \"alikoyunoglu@gmail.com\" }","timestamp":"2025-01-12T13:19:13.123Z"}
+{"level":"error","message":"Fehler aufgetreten: Error inserting object: E11000 duplicate key error collection: restaurantDashboard.customers index: email_1 dup key: { email: \"alikoyunoglu@gmail.com\" }","timestamp":"2025-01-12T13:19:21.246Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T13:22:53.550Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T13:22:53.555Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T13:22:53.555Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:22:53.556Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T13:22:53.560Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T13:40:36.015Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T13:40:36.020Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T13:40:36.020Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:40:36.021Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T13:40:36.024Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T13:40:43.125Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T13:40:43.130Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T13:40:43.131Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:40:43.131Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T13:40:43.135Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T13:42:13.073Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T13:42:13.078Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T13:42:13.079Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:42:13.079Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T13:42:13.083Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T13:49:54.750Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T13:49:54.755Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T13:49:54.755Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:49:54.756Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T13:49:54.760Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T13:50:03.316Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T13:50:03.321Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T13:50:03.322Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:50:03.322Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T13:50:03.326Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T13:50:17.628Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T13:50:17.634Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T13:50:17.635Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:50:17.635Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T13:50:17.639Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T13:50:26.816Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T13:50:26.822Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T13:50:26.822Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:50:26.823Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T13:50:26.826Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T13:50:38.547Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T13:50:38.552Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T13:50:38.553Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:50:38.553Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T13:50:38.557Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T13:51:37.123Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T13:51:37.128Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T13:51:37.128Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:51:37.129Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T13:51:37.132Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T13:52:01.142Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T13:52:01.147Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T13:52:01.148Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:52:01.148Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T13:52:01.151Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T13:52:24.022Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T13:52:24.027Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T13:52:24.028Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:52:24.028Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T13:52:24.033Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T13:53:01.233Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T13:53:01.239Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T13:53:01.239Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:53:01.240Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T13:53:01.244Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T13:53:37.969Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T13:53:37.974Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T13:53:37.975Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:53:37.975Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T13:53:37.978Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:00:11.122Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:35:44.850Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:35:47.098Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:35:51.176Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:41:19.770Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:41:21.842Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:41:57.029Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:44:22.371Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:44:23.754Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:44:37.991Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:45:06.606Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T15:45:28.635Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T15:45:28.640Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T15:45:28.641Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T15:45:28.641Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T15:45:28.645Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:45:32.892Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:46:55.683Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:48:42.456Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T15:49:02.113Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T15:49:02.118Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T15:49:02.118Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T15:49:02.119Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T15:49:02.123Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:50:39.391Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T15:51:09.787Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T15:51:09.793Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T15:51:09.793Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T15:51:09.793Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T15:51:09.797Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T15:51:26.298Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T15:51:26.304Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T15:51:26.304Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T15:51:26.305Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T15:51:26.309Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:51:29.331Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T15:51:40.898Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T15:51:40.904Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T15:51:40.904Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T15:51:40.905Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T15:51:40.908Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:53:32.181Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:54:23.209Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:58:59.180Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T15:59:48.830Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T15:59:48.835Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T15:59:48.836Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T15:59:48.836Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T15:59:48.840Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T16:10:01.954Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T16:10:31.123Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T16:10:31.128Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T16:10:31.129Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:10:31.129Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T16:10:31.133Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T16:11:14.374Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T16:11:14.380Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T16:11:14.381Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:11:14.381Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T16:11:14.385Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T16:11:22.047Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T16:11:22.051Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T16:11:22.052Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:11:22.052Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T16:11:22.056Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T16:11:25.433Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T16:11:36.706Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T16:13:58.029Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T16:13:58.035Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T16:13:58.036Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:13:58.036Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T16:13:58.040Z"}
+{"level":"error","message":"Fehler aufgetreten: Cannot read properties of undefined (reading 'orderBook')","timestamp":"2025-01-12T16:14:02.019Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T16:14:08.965Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T16:14:08.971Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T16:14:08.972Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:14:08.972Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T16:14:08.976Z"}
+{"level":"error","message":"Fehler aufgetreten: Cannot read properties of undefined (reading 'orderBook')","timestamp":"2025-01-12T16:14:10.693Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T16:14:20.225Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T16:14:20.231Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T16:14:20.231Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:14:20.232Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T16:14:20.235Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T16:14:29.144Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T16:14:29.149Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T16:14:29.150Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:14:29.150Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T16:14:29.153Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T16:15:00.972Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T16:15:00.978Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T16:15:00.978Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:15:00.979Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T16:15:00.982Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T16:15:06.971Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T16:15:06.976Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T16:15:06.977Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:15:06.977Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T16:15:06.981Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T16:15:31.568Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T16:15:31.573Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T16:15:31.574Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:15:31.574Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T16:15:31.578Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T16:15:42.777Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T16:15:42.782Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T16:15:42.783Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:15:42.783Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T16:15:42.787Z"}
+{"level":"error","message":"Fehler aufgetreten: Cannot read properties of undefined (reading 'orderBook')","timestamp":"2025-01-12T16:15:46.076Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T16:16:09.093Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T16:16:09.098Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T16:16:09.099Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:16:09.099Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T16:16:09.103Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T16:17:12.977Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T16:17:12.982Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T16:17:12.983Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:17:12.983Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T16:17:12.987Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T16:17:59.320Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T16:17:59.325Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T16:17:59.326Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:17:59.326Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T16:17:59.330Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T16:38:07.163Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T16:38:07.169Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T16:38:07.169Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:38:07.170Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T16:38:07.174Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T16:47:44.149Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T16:47:44.155Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T16:47:44.155Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:47:44.156Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T16:47:44.160Z"}
+{"level":"info","message":"Secret key oluşturuldu:","timestamp":"2025-01-12T17:13:15.432Z"}
+{"level":"info","message":"Uygulama çalışıyor...","timestamp":"2025-01-12T17:13:15.436Z"}
+{"level":"warn","message":"Bu bir uyarı mesajı.","timestamp":"2025-01-12T17:13:15.437Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T17:13:15.437Z"}
+{"level":"info","message":"Server started on port 3000","timestamp":"2025-01-12T17:13:15.440Z"}

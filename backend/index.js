@@ -35,7 +35,7 @@ app.use(bodyParser.urlencoded({ limit: "10mb", extended: true })); // URL kodlam
 
 // CORS middleware
 app.use(cors({
-    origin: ['http://localhost:8080'], // Canlı ve geliştirme domainlerini ekleyin
+    origin: ['http://localhost:5173'], // frontend uygulamasının çalıştığı canlı ve geliştirme domainlerini ekleyin.Cok önemli !!
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH',"OPTIONS"],
     allowedHeaders: ['Content-Type', 'Authorization'], // Gerekli başlıkları ekle
     credentials: true

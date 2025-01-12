@@ -1,4 +1,4 @@
-const { customerService } = require('../services');
+const { customerService, orderService } = require('../services');
 const router = require("express").Router();
 
 // GET /customers - Tüm müşterileri listele
@@ -62,7 +62,7 @@ router.post('/:customerId/orderBookings', async (req, res, next) => {
     try {
         const { customerId } = req.params
         const { itemId, orderStart, orderEnd } = req.body
-        const orderBooking = await orderBookingService.orderBook(itemId, customerId, orderStart, orderEnd)
+        const orderBooking = await orderService.orderBook(itemId, customerId, orderStart, orderEnd)
         res.send(orderBooking)
     } catch (error) {
         next(error);

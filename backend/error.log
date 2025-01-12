@@ -155,3 +155,70 @@
 {"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-05T13:56:46.784Z"}
 {"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-05T13:57:21.068Z"}
 {"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-05T14:56:23.798Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T08:59:37.412Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:10:32.120Z"}
+{"level":"error","message":"Fehler aufgetreten: Error inserting object: E11000 duplicate key error collection: restaurantDashboard.customers index: email_1 dup key: { email: \"alikoyunoglu@gmail.com\" }","timestamp":"2025-01-12T13:19:03.236Z"}
+{"level":"error","message":"Fehler aufgetreten: Error inserting object: E11000 duplicate key error collection: restaurantDashboard.customers index: email_1 dup key: { email: \"alikoyunoglu@gmail.com\" }","timestamp":"2025-01-12T13:19:13.123Z"}
+{"level":"error","message":"Fehler aufgetreten: Error inserting object: E11000 duplicate key error collection: restaurantDashboard.customers index: email_1 dup key: { email: \"alikoyunoglu@gmail.com\" }","timestamp":"2025-01-12T13:19:21.246Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:22:53.556Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:40:36.021Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:40:43.131Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:42:13.079Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:49:54.756Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:50:03.322Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:50:17.635Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:50:26.823Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:50:38.553Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:51:37.129Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:52:01.148Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:52:24.028Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:53:01.240Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T13:53:37.975Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:00:11.122Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:35:44.850Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:35:47.098Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:35:51.176Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:41:19.770Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:41:21.842Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:41:57.029Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:44:22.371Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:44:23.754Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:44:37.991Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:45:06.606Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T15:45:28.641Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:45:32.892Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:46:55.683Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:48:42.456Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T15:49:02.119Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:50:39.391Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T15:51:09.793Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T15:51:26.305Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:51:29.331Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T15:51:40.905Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:53:32.181Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:54:23.209Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T15:58:59.180Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T15:59:48.836Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T16:10:01.954Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:10:31.129Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:11:14.381Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:11:22.052Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T16:11:25.433Z"}
+{"level":"error","message":"Fehler aufgetreten: orderBookingService is not defined","timestamp":"2025-01-12T16:11:36.706Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:13:58.036Z"}
+{"level":"error","message":"Fehler aufgetreten: Cannot read properties of undefined (reading 'orderBook')","timestamp":"2025-01-12T16:14:02.019Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:14:08.972Z"}
+{"level":"error","message":"Fehler aufgetreten: Cannot read properties of undefined (reading 'orderBook')","timestamp":"2025-01-12T16:14:10.693Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:14:20.232Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:14:29.150Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:15:00.979Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:15:06.977Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:15:31.574Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:15:42.783Z"}
+{"level":"error","message":"Fehler aufgetreten: Cannot read properties of undefined (reading 'orderBook')","timestamp":"2025-01-12T16:15:46.076Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:16:09.099Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:17:12.983Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:17:59.326Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:38:07.170Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T16:47:44.156Z"}
+{"level":"error","message":"Bu bir hata mesajı.","timestamp":"2025-01-12T17:13:15.437Z"}

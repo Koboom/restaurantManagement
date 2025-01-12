@@ -60,8 +60,8 @@ POST http://localhost:3000/customers
 Content-Type: application/json
 
 {
-  "name": "Ali Koyunoglu",
-  "email": "alikoyunoglu@gmail.com",
+  "name": "Nilgün Türkmen",
+  "email": "nil@gmail.com",
   "phone": "05551234561",
   "vip": true
 }
